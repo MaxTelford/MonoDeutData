@@ -9,7 +9,7 @@ This is the data/scripts repository for the publication Kapli _et al_ "Lack of s
 Trees
 -----
 ​
-In the methods sections **_Measuring support for deuterostome and protostome branches_** and **_Support for monophyletic versus paraphyletic deuterostomes and protostomes_** we generated classic trees, alternate trees and collpsed trees. Each dataset (`Cannon`, `Laumer`, `Marletaz`, `Rouse`, `Philippe`) has the following:
+In the methods sections **_Measuring support for deuterostome and protostome branches_** and **_Support for monophyletic versus paraphyletic deuterostomes and protostomes_** we generated classic trees, alternate trees and collapsed trees. Each dataset (`Cannon`, `Laumer`, `Marletaz`, `Rouse`, `Philippe`) has the following:
 ​
  * `<dataset>_Classic_Tree.tre`
 ​
@@ -41,7 +41,7 @@ In the methods sections **_Measuring support for deuterostome and protostome bra
 Scripts
 -------
 ​
-For the comparison of likelihoods from three alternative tree hypotheses we used the following scrips. For usage see in the scripts.
+For the comparison of likelihoods from three alternative tree hypotheses we used the following scripts. For usage read the scripts.
 ​
  * `likelihood_transform.py` - was used to transform likelihood values.
  * `plot_triangles.R` - was used to plot the transformed likelihoods. CSV inputs used are provided in the supplementary material.
@@ -54,8 +54,8 @@ Simulation_data
 This folder contains the sub-folders `empirical_alignments`, `guide_trees` and `simulation_results` from the methods sections **_Measuring branch lengths with different models and model fitness_** and **_Simulations - Systematic Error_**
 ​
  * `empirical_alignments`
-	1. `metazoa_UPhO_d0.5.phylip.subset36.JACK50K.fasta` - the 50K "reduced-Laumer" alignment.
-	2. `metazoa_UPhO_d0.5.phylip.subset36.JACK10K.fasta` - the further reduced 10K version of the "reduced-Laumer" alignment.
+	1. `metazoa_UPhO_d0.5.phylip.subset36.JACK50K.fasta` - the 50K sites "reduced-Laumer" alignment.
+	2. `metazoa_UPhO_d0.5.phylip.subset36.JACK10K.fasta` - the 10K sites version of the "reduced-Laumer" alignment.
 ​
  * `guide_trees`
 	1. `Classic_tree.txt_metazoa_UPhO_d0.5.phylip.subset36…CK50K.fasta.tree`
