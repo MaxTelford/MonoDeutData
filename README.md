@@ -62,7 +62,7 @@ This folder contains the sub-folders `empirical_alignments`, `guide_trees` and `
 ​
 			((Lophotrochozoa,Ecdysozoa),(Xenambulacraria,Chordata))  
 	2. `Alt_Tree_D1_metazoa_UPhO_d0.5.phylip.subset36.JACK50K.fasta.tree`
-		
+​		
 			(Chordata,(Xenambulacraria,(Lophotrochozoa,Ecdysozoa)))  
 	3. `Alt_Tree_D2_metazoa_UPhO_d0.5.phylip.subset36.JACK50K.fasta.tree`
 ​
