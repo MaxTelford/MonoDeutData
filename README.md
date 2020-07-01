@@ -43,8 +43,8 @@ Scripts
 ​
 For the comparison of likelihoods from three alternative tree hypotheses we used the following scripts. For usage read the scripts.
 ​
- * `likelihood_transform.py` - was used to transform likelihood values.
- * `plot_triangles.R` - was used to plot the transformed likelihoods. CSV inputs used are provided in the supplementary material.
+ * `likelihood_transform.py` - was used to transform likelihood values. 
+ * `plot_triangles.R` - was used to plot the transformed likelihoods.
 ​
 ---
 ​
