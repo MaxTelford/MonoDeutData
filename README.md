@@ -1,7 +1,7 @@
 Data from manuscript: "Lack of support for Deuterostomia prompts reinterpretation of the first Bilateria."
 =============================================================================================
 ​
-This is the data/scripts repository for the publication Kapli _et al_ "Lack of support for Deuterostomia prompts reinterpretation of the first Bilateria" ([DOI.XXX](https://doi.XXX)). It contains all the `Trees`, `Scripts` and `Simulation_data` used in the study. If you require further materials or information please contact m.telford@ucl.ac.uk.
+This is the data/scripts repository for the publication Kapli _et al_ "Lack of support for Deuterostomia prompts reinterpretation of the first Bilateria" ([DOI.10.1126/sciadv.abe27](https://doi.org/10.1126/sciadv.abe2741)). It contains all the `Trees`, `Scripts` and `Simulation_data` used in the study. If you require further materials or information please contact m.telford@ucl.ac.uk.
 ​
 ​
 ---
